@@ -34,7 +34,7 @@ No third-party packages are required.
 1. Install Python 3 . 14 . 7 if it is not already available. Confirm it is on your PATH:
 
    ```bash
-python --vrsion  ```
+python --version  ```
 
    On some systems, use 'python3.14.7' instead of 'python'.
 
